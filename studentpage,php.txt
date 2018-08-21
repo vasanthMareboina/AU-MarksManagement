@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+body {
+      font: 400 15px/1.8 Lato, sans-serif;
+     // background-color:lightblue;
+	  text-align:center;
+	  margin: 120px 0 100px 0;
+  }
+  </style>
+</head>
+<body background="images.jpg">
+<h4>I WANT TO KNOW MY MARKS IN SEMISTER</h4>
+<select>
+  <option value="first sem">One</option>
+  <option value="second sem">Two</option>
+  <option value="three sem">Three</option>
+  <option value="fourth sem">Four</option>
+  <option value="fifth sem">Five</option>
+  <option value="sixth sem">Six</option>
+  <option value="seventh sem">Seven</option>
+  <option value="eigth sem">Eight</option>
+</select>&nbsp&nbsp
+<input type="button" value="submit">
+</body>
+</html>
